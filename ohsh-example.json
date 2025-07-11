@@ -1,0 +1,16 @@
+{
+  "commands": [
+    {
+      "timestamp": "2025-07-11T12:54:46.163809193-06:00",
+      "input": "/bin/ls",
+      "output": "\n\u001b[?2004l\rbashexample.ipynb  go.sum   nb.go\t\tohsh-example.json  out.ipynb\r\ngo.mod\t\t   main.go  ohsh-example.ipynb\tohsh-utils\t   out.json\r\n\u001b[?2004h\u001b]0;shane@stone: ~/src/ohsh-utils\u0007\u001b[01;32mshane@stone\u001b[00m:\u001b[01;34m~/src/ohsh-utils\u001b[00m$ find . -name '*go'\r",
+      "redacted": false
+    },
+    {
+      "timestamp": "2025-07-11T12:54:51.860073507-06:00",
+      "input": "find . -name '*go'",
+      "output": "\n\u001b[?2004l\r./main.go\r\n./nb.go\r\n\u001b[?2004h\u001b]0;shane@stone: ~/src/ohsh-utils\u0007\u001b[01;32mshane@stone\u001b[00m:\u001b[01;34m~/src/ohsh-utils\u001b[00m$ \u001b[?2004l\r\r\nexit\r\n",
+      "redacted": false
+    }
+  ]
+}

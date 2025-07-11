@@ -1,0 +1,8 @@
+* ohsh2notebook
+
+Proof of concept to convert [[https://ohsh][ohsh]] sessions to jupyter notebooks.
+
+** TODO 
+
+Poor translation of control sequences. Ideally rich terminal features
+like sixel images and links would work in notebook.
