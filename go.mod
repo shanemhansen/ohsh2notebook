@@ -1,4 +1,4 @@
-module ohsh-utils
+module ohsh2notebook
 
 go 1.21.0
 
